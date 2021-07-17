@@ -1,2 +1,2 @@
 # design-patterns
-Learn design patterns
+Learn design patterns Ok
